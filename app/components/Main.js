@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import SearchGithub from './SearchGithub'
 
 const Main = ({children, history}) => {
@@ -6,7 +6,7 @@ const Main = ({children, history}) => {
     <div className='main-container'>
       <nav className='navbar navbar-default' role='navigation'>
         <div className='col-sm-7 col-sm-offset-2' style={{marginTop: 15}}>
-          <SearchGithub history={history}/>
+          <SearchGithub history={history} />
         </div>
       </nav>
       <div className='container'>
