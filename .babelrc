@@ -3,7 +3,6 @@
     "env",
     "react",
     "stage-1",
-    "standard",
     "standard-react"
   ],
   "env": {
