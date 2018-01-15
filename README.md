@@ -6,16 +6,12 @@
 
 You will need [node.js and npm](https://www.npmjs.com/package/npm#super-easy-install) installed on your system.
 
-###Install Dependencies
+### Install Dependencies
 
 ```bash
-npm install -g webpack http-server
+npm i
 ```
 
 ```bash
-npm install
-webpack -w
 npm start
 ```
-
-
