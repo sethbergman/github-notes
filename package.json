@@ -7,7 +7,7 @@
     "start": "node server",
     "test": "sh test/index.test.sh"
   },
-  "author": "Seth Bergman <seth.atxwebs@gmail.com> (http://sethbergman.com)",
+  "author": "Seth Bergman (https://sethbergman.com)",
   "license": "UNLICENSED",
   "dependencies": {
     "axios": "^0.8.0",
