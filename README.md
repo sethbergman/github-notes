@@ -1,19 +1,40 @@
-# Github Notetaker
+# GitHub Notes
 
-## Instructions
+GitHub Notes is built with React and allows you to take notes on GitHub user profiles.
 
-You will need [node.js and npm](https://www.npmjs.com/package/npm#super-easy-install) installed on your system.
+--------------------------------------------------------------------------------
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/github-notes.svg)](https://greenkeeper.io/) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://travis-ci.org/sethbergman/github-notes.svg?branch=master)](https://travis-ci.org/sethbergman/github-notes)
 
-###Install Dependencies
 
-```bash
-npm install -g webpack http-server
+## Demo:
+
+[github-notes.npmstack.com](http://github-notes.npmstack.com)
+
+### Setup
+
+```
+git clone https://github.com/sethbergman/github-notes.git && cd github-notes
 ```
 
-```bash
-npm install
-webpack -w
+### Install dependencies
+
+```sh
+npm i # or use yarn
+yarn
+```
+
+### Start the app
+
+```sh
 npm start
 ```
 
+##### Visit [http://0.0.0.0:5000](http://0.0.0.0:5000) in your browser.
 
+### Demo:
+
+[github-notes.npmstack.com](http://github-notes.npmstack.com)
+
+
+[![GitHub forks](https://img.shields.io/github/forks/sethbergman/github-notes.svg?style=social&label=Fork)](https://github.com/sethbergman/github-notes) [![GitHub stars](https://img.shields.io/github/stars/sethbergman/github-notes.svg?style=social&label=Star)](https://github.com/sethbergman/github-notes) [![GitHub watchers](https://img.shields.io/github/watchers/sethbergman/github-notes.svg?style=social&label=Watch)](https://github.com/sethbergman/github-notes) [![GitHub followers](https://img.shields.io/github/followers/sethbergman.svg?style=social&label=Follow)](https://github.com/sethbergman/github-notes) [![Twitter Follow](https://img.shields.io/twitter/follow/seth_bergman.svg?style=social)](https://twitter.com/seth_bergman)
