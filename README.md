@@ -9,7 +9,7 @@ GitHub Notes is built with React and allows you to take notes on GitHub user pro
 
 ## Demo:
 
-[github-notes.npmstack.com](http://github-notes.npmstack.com)
+[github-notes.stackriot.com](http://github-notes.stackriot.com)
 
 ### Setup
 
@@ -34,7 +34,7 @@ npm start
 
 ### Demo:
 
-[github-notes.npmstack.com](http://github-notes.npmstack.com)
+[github-notes.stackriot.com](http://github-notes.stackriot.com)
 
 
 [![GitHub forks](https://img.shields.io/github/forks/sethbergman/github-notes.svg?style=social&label=Fork)](https://github.com/sethbergman/github-notes) [![GitHub stars](https://img.shields.io/github/stars/sethbergman/github-notes.svg?style=social&label=Star)](https://github.com/sethbergman/github-notes) [![GitHub watchers](https://img.shields.io/github/watchers/sethbergman/github-notes.svg?style=social&label=Watch)](https://github.com/sethbergman/github-notes) [![GitHub followers](https://img.shields.io/github/followers/sethbergman.svg?style=social&label=Follow)](https://github.com/sethbergman/github-notes) [![Twitter Follow](https://img.shields.io/twitter/follow/seth_bergman.svg?style=social)](https://twitter.com/seth_bergman)
