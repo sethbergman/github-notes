@@ -2,7 +2,9 @@
 "root": true,
   "extends": [
     "standard-jsx",
-    "standard-react"
+    "standard-react",
+    "xo",
+    "xo/react-space"
   ],
   "plugins": [
     "react",

@@ -1,13 +1,13 @@
 {
   "name": "github-notes",
   "version": "1.0.0",
-  "description": "GitHub Notes is built with React and allows you to take notes on GitHub user profiles.",
+  "description": "GitHub Notes is built with React and allows you to take notes on GitHub users.",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "test": "sh test/index.test.sh"
   },
-  "author": "Seth Bergman <seth.atxwebs@gmail.com> (http://sethbergman.com)",
+  "author": "Seth Bergman <seth.atxwebs@gmail.com> (https://sethbergman.com)",
   "license": "UNLICENSED",
   "dependencies": {
     "axios": "^0.8.0",
